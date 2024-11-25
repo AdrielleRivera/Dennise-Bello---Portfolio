@@ -49,7 +49,6 @@ nav .denny:hover{
 	position: absolute;
 	left: -70px;
 	top: 120px;
-
 }
 .second-logo{
 	max-width: 550px;
@@ -63,7 +62,7 @@ nav .denny:hover{
     width: 60%;
     position: absolute;
     left: 55%; /* Move to the center horizontally */
-    top: 100px; /* Adjust as needed for vertical positioning */
+    top: 70px; /* Adjust as needed for vertical positioning */
     transform: translateX(-50%); /* Center the element */
     justify-content: center;
     text-align: center;
@@ -83,4 +82,29 @@ nav .denny:hover{
 	left: 78%;
 	top: 400px;
 	
+}
+footer{
+ position:  fixed;
+    bottom: 0;       /* Align to the bottom of the viewport */
+    left: 0;         /* Align to the left edge */
+    width: 100%;     /* Make it span the entire width of the page */
+    background: rgba(0, 0, 0, 0.8); /* Background color for contrast */
+    color: white;    /* Text color for readability */
+    text-align: center; /* Center-align the text */
+    padding: 10px; /* Add padding for spacing */
+    z-index: 1000;   /* Ensure it stays above other elements */
+    font-size: 1rem;
+}
+footer a{
+    color:  yellow;
+}
+footer a:hover{
+    color: black;
+    background:white;
+}
+footer p:first-of-type{
+    margin-bottom: 10px;
+}
+footer > p:first-of-type {
+    color: #f5deb3;
 }
