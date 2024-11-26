@@ -109,15 +109,15 @@ footer > p:first-of-type {
 }
 #menu-bars{
     position: fixed;
-    top: 1rem;
-    left: 1rem;
+    top: .5rem;
+    left: 25px;
     padding: 1rem 1.5rem;
     border-radius:.5rem;
     color:red;
     background:white;
     cursor: pointer;
-    font-size: 3rem;
-    
+    font-size: 1rem;
+    display: none;
 }
 
 
@@ -136,7 +136,7 @@ footer > p:first-of-type {
         display: initial;
     }
     header .navbar {
-writing-mode: horizontal-tb;
+
     }
     header .navbar a{
         display: block;
