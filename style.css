@@ -81,7 +81,6 @@ nav .denny:hover{
 	position: absolute;
 	left: 78%;
 	top: 400px;
-	
 }
 footer{
  position:  fixed;
@@ -107,4 +106,61 @@ footer p:first-of-type{
 }
 footer > p:first-of-type {
     color: #f5deb3;
+}
+#menu-bars{
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    padding: 1rem 1.5rem;
+    border-radius:.5rem;
+    color:red;
+    background:white;
+    cursor: pointer;
+    font-size: 3rem;
+    
+}
+
+
+
+@media (max-width:991px) {
+    html{
+        font-size: 55%;
+    }
+    body{
+        padding-right: 0;
+    }
+    header{
+        width:100%;
+    }
+    #menu-bars{
+        display: initial;
+    }
+    header .navbar {
+writing-mode: horizontal-tb;
+    }
+    header .navbar a{
+        display: block;
+        font-size: 2rem;
+    }
+    .denny {display: none;
+    }
+    .first-logo{
+        width:36%;
+        top:60px;
+        
+    }
+    .second-logo{
+        width:60%;
+        top: 300px;
+    }
+    .third-logo{
+        top: 155px;
+        width: 75%;
+        left: 60%;
+    }
+    .fourth-logo{
+        width: 50%;
+        top: 35px;
+        left: 57%;
+    }
 }
