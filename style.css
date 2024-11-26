@@ -45,12 +45,10 @@ nav .denny:hover{
 }
 .first-logo{
 	max-width: 350px;
-    width: 50%;
-    position: relative; /* Changed */
-    margin-left: auto;
-    margin-right: auto;
-    top: 40px;
-    left: -120px;
+	width: 50%;
+	position: absolute;
+	left: -70px;
+	top: 120px;
 }
 .second-logo{
 	max-width: 550px;
@@ -124,7 +122,7 @@ footer > p:first-of-type {
 
 
 
-@media (max-width:31.25em) {
+@media (max-width:500px) {
     html{
         font-size: 55%;
     }
@@ -165,13 +163,4 @@ writing-mode: horizontal-tb;
         top: 35px;
         left: 57%;
     }
-}
-@media (min-width: 501px) {
-    /* Desktop-specific styles */
-}
-@media (max-width: 768px) {
-    /* Tablet-specific styles */
-}
-@media (max-width: 500px) {
-    /* Phone-specific styles */
 }
