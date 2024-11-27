@@ -13,5 +13,7 @@ Status Update:
 - Responsive to max-width:991px = 26/11/2024
 - Fixed Burger Button = 27/11/2024
 - Changed the image logo in the main page = 27/11/2024
+- Made About Me and List of Contents Responsive to max-width:991px = 27/11/2024
+- Realization: I started to understand Menu Burger Button and Responsive Design in this portfolio All thanks to Learn Computer Today Philippines OJT. = 27/11/2024
 
 ``````
