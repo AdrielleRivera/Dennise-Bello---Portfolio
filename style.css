@@ -122,21 +122,23 @@ footer > p:first-of-type {
 
 
 
-@media (max-width:991px), (max-width:320px){
+@media (max-width:991px){
     html{
         font-size: 55%;
+        
     }
     body{
         padding-right: 0;
     }
     header{
         width:100%;
+        left:-120%;
+    }
+    header.active{
+        left:0%;
     }
     #menu-bars{
         display: initial;
-    }
-    header .navbar {
-
     }
     header .navbar a{
         display: block;
@@ -160,7 +162,65 @@ footer > p:first-of-type {
     }
     .fourth-logo{
         width: 50%;
-        top: 35px;
+        top: 0px;
         left: 57%;
+    }
+    /*This is the burger button part!! yahoo(sorry this is an achievement for me)*/
+    #menu-bars {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    width: 30px;
+    padding: .8rem;
+    border-radius: .2rem;
+    color: red;
+    background: white;
+    cursor: pointer;
+    font-size: 2rem;
+    z-index: 1001;
+    display: none; /* Outside media query */
+}
+    html{
+        font-size: 55%;
+    }
+    body{
+        padding-right: 0;
+    }
+    header{
+        position: fixed;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.9);
+        transition: left 0.3s ease;
+        z-index: 1000;
+    }
+    header.active{
+        left: 0;
+    }
+    #menu-bars{
+        display: block; 
+    }
+    nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 5rem;
+    }
+    nav a{
+        font-size: 2rem;
+        margin: 1rem 0;
+    }
+
+    .denny {
+        display: none;
+    }
+    /* Adjust logo positions if necessary */
+}
+@media (max-width:450px){
+    html{
+        font-size: 55%;
+        
     }
 }
