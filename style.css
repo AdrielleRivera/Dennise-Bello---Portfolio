@@ -44,11 +44,11 @@ nav .denny:hover{
     background: white;
 }
 .first-logo{
-    max-width: 350px;
+    max-width: 550px;
     width: 50%;
     position: absolute;
-    left: -70px;
-    top: 120px;
+    left: -55px;
+    top: 110px;
 }
 .second-logo{
     max-width: 550px;
@@ -79,8 +79,8 @@ nav .denny:hover{
     max-width: 550px;
     width: 60%;
     position: absolute;
-    left: 78%;
-    top: 400px;
+    left: 85%;
+    top: 470px;
 }
 footer{
  position:  fixed;
@@ -147,8 +147,8 @@ footer > p:first-of-type {
     .denny {display: none;
     }
     .first-logo{
-        width:36%;
-        top:60px;
+        width:65%;
+        top:65px;
         
     }
     .second-logo{
@@ -165,6 +165,10 @@ footer > p:first-of-type {
         top: 0px;
         left: 57%;
     }
+    .fifth-logo{
+        width: 50%;
+    }
+
     /*This is the burger button part!! yahoo(sorry this is an achievement for me)*/
     #menu-bars {
     position: fixed;
