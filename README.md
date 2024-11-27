@@ -12,4 +12,6 @@ Status Update:
 - Not yet responsive. = 22/11/2024
 - Responsive to max-width:991px = 26/11/2024
 - Fixed Burger Button = 27/11/2024
+- Changed the image logo in the main page = 27/11/2024
+
 ``````
