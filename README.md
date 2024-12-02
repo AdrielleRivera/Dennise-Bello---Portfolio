@@ -15,6 +15,7 @@ Status Update:
 - Changed the image logo in the main page = 27/11/2024
 - Made About Me and List of Contents Responsive to max-width:991px = 27/11/2024
 - Realization: I started to understand Menu Burger Button and Responsive Design in this portfolio All thanks to Learn Computer Today Philippines OJT. = 27/11/2024
-- Hello World! Created page 4 for Dennise Portfolio. "Personal Skills" = 02/12/2024
+- Hello World! Created page 4 for Dennise Portfolio. "About Me" = 02/12/2024
 - Sorry been busy with the family trip. Will continue = 02/12/2024
+- Changed About Me page into "Your Dynamic VA". I created a new About me instead, got confused of "Personal Skills". (Debug) = 02/12/2024 
 ``````
