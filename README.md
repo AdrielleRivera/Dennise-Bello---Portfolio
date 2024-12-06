@@ -20,4 +20,5 @@ Status Update:
 - Updated "About Me" page to "Your Dynamic VA" and created a new "About Me" section. Adjusted for clarity. (Debug) = 02/12/2024
 - Started to create a Vision Page (5th page of the canva design) = 02/12/2024
 - Began creating the "Personal Skills" page. (Apologies for the delay; took some time off for recovery.) = 05/12/2024
+- Added 4 images (main elements of "Personal Skills" page) Still recovering = 06/12/2024
 ``````
