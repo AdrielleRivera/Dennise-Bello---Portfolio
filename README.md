@@ -57,6 +57,10 @@ Added Pages 7 and 9 for the Work Experience section (refer to Canva design).
 Added Page 10: "Sample Events Products Page" (refer to Canva design).
 Note: Delays due to illness recovery and a busy schedule. Thank you for your patience and support.
 
+20/12/2024
+
+Added page 11 for the Work Experience section. (refer to Canva design).
+
 
 ```````````````
 Key Learnings
