@@ -62,6 +62,10 @@ Note: Delays due to illness recovery and a busy schedule. Thank you for your pat
 Added Page 11 for the Work Experience section (refer to Canva design).
 Made the page responsive for devices with a maximum width of 991px.
 
+22/12/2024
+
+Added Page 12 for the Work Experience section (refer to Canva design).
+
 
 ```````````````
 Key Learnings
