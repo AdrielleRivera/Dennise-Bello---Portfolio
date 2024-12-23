@@ -67,6 +67,10 @@ Made the page responsive for devices with a maximum width of 991px.
 Added Page 12 for the Work Experience section (refer to Canva design).
 Made the page responsive for devices with a maximum width of 991px.
 
+23/12/2024
+Added Page 13 for the Work Experience Section (refer to Canva design).
+Made the page responsive for devices with a maximum width of 991px.
+
 ```````````````
 Key Learnings
 
