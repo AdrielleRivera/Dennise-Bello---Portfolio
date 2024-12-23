@@ -8,6 +8,7 @@ https://www.canva.com/design/DAGEftoMcsU/Qg1XAT36cnmg1HJbIzz7PA/edit?utm_content
 
 
 Status Update
+
 ```````````````
 November 2024
 
@@ -23,7 +24,9 @@ Fixed burger button functionality.
 Changed the main page logo image.
 Made "About Me" and "List of Contents" pages responsive for max-width: 991px.
 Realization: Improved understanding of menu burger button functionality and responsive design principles, thanks to Learn Computer Today Philippines OJT.
+
 ```````````````
+
 December 2024
 
 ```````````````
@@ -31,61 +34,60 @@ Here’s your updated log with improved spacing for better clarity:
 
 ---
 
-**02/12/2024**  
+02/12/2024
 - Created "About Me" page (Page 4).  
 - Updated the "About Me" section to "Your Dynamic VA" for clarity.  
 - Began work on the "Vision" page (Page 5 in Canva design).  
 
 ---
 
-**05/12/2024**  
+05/12/2024
 - Started the "Personal Skills" page.  
 - **Note:** Progress was delayed due to illness recovery.  
 
 ---
 
-**06/12/2024**  
+06/12/2024
 - Added 4 images to the "Personal Skills" page.  
 - Continued work despite ongoing recovery.  
 
 ---
 
-**09/12/2024**  
+09/12/2024 
 - Completed the "Personal Skills" page.  
 
 ---
 
-**12/12/2024**  
+12/12/2024
 - Began the "Work Experience" page, incorporating Dennise Bello's education and virtual assistant experience.  
 
 ---
 
-**19/12/2024**  
+19/12/2024
 - Added Pages 7 and 9 for the "Work Experience" section (refer to Canva design).  
 - Added Page 10: "Sample Events Products Page."  
 - **Note:** Progress was slower due to illness recovery and a busy schedule. Thank you for your patience.  
 
 ---
 
-**20/12/2024**  
+20/12/2024  
 - Added Page 11 to the "Work Experience" section.  
 - Made the page responsive for devices with a maximum width of 991px.  
 
 ---
 
-**22/12/2024**  
+22/12/2024
 - Added Page 12 to the "Work Experience" section.  
 - Ensured device responsiveness (max width: 991px).  
 
 ---
 
-**23/12/2024**  
+23/12/2024
 - Added Page 13 to the "Work Experience" section.  
 - Maintained device responsiveness (max width: 991px).  
 
 --- 
 
-Let me know if you’d like any additional changes!
 ```````````````
 Key Learnings
 
