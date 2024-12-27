@@ -93,7 +93,9 @@ Here’s your updated log with improved spacing for better clarity:
 - Thank you for your patience! After quality time with family, I'm excited to return to this project. Happy Holidays!
 - Resolved an issue where the navbar in the 'Work Experience' section was not functioning correctly or had a visible gap. Added 'position: fixed;' to the navbar and 'z-index: 5;' to ensure proper alignment and visibility. Refer to the document below for additional context :
 
+```````
 https://www.canva.com/design/DAGafWSGPr4/pnVcndFRBkADnNMSQocgNA/edit?utm_content=DAGafWSGPr4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+```````
 
 --- 
 
