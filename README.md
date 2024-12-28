@@ -96,7 +96,8 @@ Here’s your updated log with improved spacing for better clarity:
 28/12/2024
 - Added: Page 15 to the "Work Experience" section.
 - Responsiveness: Adjusted the layout to be fully responsive for devices with a maximum width of 991px.
-- Note: The brown line border in this section has been temporarily removed. Styling updates may be applied once the final version is complete. (Check Before and After Brown Border line file below)
+- Note: The brown line border in this section has been temporarily removed for styling adjustments. Updates may be applied once the final version is complete. Refer to the "Before and After Brown Border Line" file linked below for comparison.
+
 - Progress: Almost finished! 🎉
 
 
