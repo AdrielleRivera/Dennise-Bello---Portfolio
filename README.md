@@ -94,8 +94,9 @@ Here’s your updated log with improved spacing for better clarity:
 - Resolved an issue where the navbar in the 'Work Experience' section was not functioning correctly or had a visible gap. Added 'position: fixed;' to the navbar and 'z-index: 5;' to ensure proper alignment and visibility. Refer to the document below for additional context.
 
 28/12/2024
--Added Page 15 to the "Work Experience" section.
-- I am almost finish. Yehey!
+- Added: Page 15 to the "Work Experience" section.
+- Progress: Almost finished! 🎉
+- Responsiveness: Adjusted the layout to be fully responsive for devices with a maximum width of 991px.
 
 --- 
 
