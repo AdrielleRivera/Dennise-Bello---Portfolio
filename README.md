@@ -96,7 +96,9 @@ Here’s your updated log with improved spacing for better clarity:
 28/12/2024
 - Added: Page 15 to the "Work Experience" section.
 - Responsiveness: Adjusted the layout to be fully responsive for devices with a maximum width of 991px.
+- Note: The brown line border in this section has been temporarily removed. Styling updates may be applied once the final version is complete. (Check Before and After Brown Border line file below)
 - Progress: Almost finished! 🎉
+
 
 --- 
 
@@ -105,6 +107,9 @@ Before and After Navbar Problem:
 
 https://www.canva.com/design/DAGafWSGPr4/pnVcndFRBkADnNMSQocgNA/edit?utm_content=DAGafWSGPr4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Before and After Brown Border line in Work Section:
+
+https://www.canva.com/design/DAGal_dY2aM/_1_v_2uO3KbjF15h627pcA/view?utm_content=DAGal_dY2aM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76e93b9654
 
 Key Learnings
 
