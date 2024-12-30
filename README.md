@@ -30,87 +30,78 @@ Realization: Improved understanding of menu burger button functionality and resp
 December 2024
 
 ```````````````
-Here’s your updated log with improved spacing for better clarity:
-
----
-
 02/12/2024
-- Created "About Me" page (Page 4).  
-- Updated the "About Me" section to "Your Dynamic VA" for clarity.  
-- Began work on the "Vision" page (Page 5 in Canva design).  
 
----
+Created "About Me" page (Page 4).
+Updated the "About Me" section to "Your Dynamic VA" for better clarity.
+Began work on the "Vision" page (Page 5 in Canva design).
 
 05/12/2024
-- Started the "Personal Skills" page.  
-- **Note:** Progress was delayed due to illness recovery.  
 
----
+Started the "Personal Skills" page.
+Note: Progress was delayed due to illness recovery.
 
 06/12/2024
-- Added 4 images to the "Personal Skills" page.  
-- Continued work despite ongoing recovery.  
 
----
+Added 4 images to the "Personal Skills" page.
+Continued work despite ongoing recovery.
 
-09/12/2024 
-- Completed the "Personal Skills" page.  
+09/12/2024
 
----
+Completed the "Personal Skills" page.
 
 12/12/2024
-- Began the "Work Experience" page, incorporating Dennise Bello's education and virtual assistant experience.  
 
----
+Began the "Work Experience" page, incorporating Dennise Bello's education and virtual assistant experience.
 
 19/12/2024
-- Added Pages 7 and 9 for the "Work Experience" section (refer to Canva design).  
-- Added Page 10: "Sample Events Products Page."  
-- **Note:** Progress was slower due to illness recovery and a busy schedule. Thank you for your patience.  
 
----
+Added Pages 7 and 9 for the "Work Experience" section (refer to Canva design).
+Added Page 10: "Sample Events Products Page."
+Note: Progress was slower due to illness recovery and a busy schedule.
 
-20/12/2024  
-- Added Page 11 to the "Work Experience" section.  
-- Made the page responsive for devices with a maximum width of 991px.  
+20/12/2024
 
----
+Added Page 11 to the "Work Experience" section.
+Made the page responsive for devices with a maximum width of 991px.
 
 22/12/2024
-- Added Page 12 to the "Work Experience" section.  
-- Ensured device responsiveness (max width: 991px).  
 
----
+Added Page 12 to the "Work Experience" section.
+Ensured device responsiveness (max width: 991px).
 
 23/12/2024
-- Added Page 13 to the "Work Experience" section.  
-- Maintained device responsiveness (max width: 991px).  
 
+Added Page 13 to the "Work Experience" section.
+Maintained device responsiveness (max width: 991px).
 
 27/12/2024
-- Added Page 14 to the "Work Experience" section.
-- Maintained device responsiveness (max width: 991px).  
-- Thank you for your patience! After quality time with family, I'm excited to return to this project. Happy Holidays!
-- Resolved an issue where the navbar in the 'Work Experience' section was not functioning correctly or had a visible gap. Added 'position: fixed;' to the navbar and 'z-index: 5;' to ensure proper alignment and visibility. Refer to the document below for additional context.
+
+Added Page 14 to the "Work Experience" section.
+Maintained device responsiveness (max width: 991px).
+Thank you for your patience! After quality time with family, I'm excited to return to this project. Happy Holidays!
+Resolved an issue where the navbar in the "Work Experience" section was not functioning correctly or had a visible gap. Added position: fixed; to the navbar and z-index: 5; to ensure proper alignment and visibility. Refer to the document below for additional context.
 
 28/12/2024
-- Added: Page 15 to the "Work Experience" section.
-- Responsiveness: Adjusted the layout to be fully responsive for devices with a maximum width of 991px.
-- Note: The brown line border in this section has been temporarily removed for styling adjustments. Updates may be applied once the final version is complete. Refer to the "Before and After Brown Border Line" file linked below for comparison.
 
-- Progress: Almost finished! 🎉
+Added Page 15 to the "Work Experience" section.
+Responsiveness: Adjusted the layout to be fully responsive for devices with a maximum width of 991px.
+Note: The brown line border in this section has been temporarily removed for styling adjustments. Updates may be applied once the final version is complete. Refer to the "Before and After Brown Border Line" file linked below for comparison.
+Progress: Almost finished! 🎉
 
 29/12/2024
-- Currently working on Page 16, focusing on the final section of the Work section.
-- Took some time off today for quality bonding with my fiancée, so progress might slow down temporarily.
+
+Currently working on Page 16, focusing on the final section of the "Work Experience" section.
+Took some time off today for quality bonding with my fiancée, so progress might slow down temporarily.
 
 30/12/2024
-- Page 16: Made responsive for devices with a max-width of 991px.
-- Upcoming Task: Started development on the final page: "Contact Me."
-- Contact Me Page: Fully responsive up to a max-width of 991px and ready for viewing.
+
+Page 16: Made responsive for devices with a max-width of 991px.
+Upcoming Task: Started development on the final page: "Contact Me."
+Contact Me Page: Fully responsive up to a max-width of 991px and ready for viewing.
 
 End-of-Year Note:
-Today marks the last day of coding for 2024. I’ll be celebrating with my family and fiancée tomorrow (31/12/24). Over the past five months, I’ve gained valuable experience through my OJT and learning platforms like Coursera, Udemy, and Learn Computer Today Philippines Inc.
+Today marks the last day of coding for 2024. I’ll be celebrating with my family and fiancée tomorrow (31/12/2024). Over the past five months, I’ve gained valuable experience through my OJT and learning platforms like Coursera, Udemy, and Learn Computer Today Philippines Inc.
 
 Special thanks to Coach Mike, Yuriy, Kuya Anton, and everyone who guided me along the way. Looking forward to continuing this journey in the new year!
 
