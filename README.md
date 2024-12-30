@@ -105,16 +105,14 @@ Here’s your updated log with improved spacing for better clarity:
 - Took some time off today for quality bonding with my fiancée, so progress might slow down temporarily.
 
 30/12/2024
--Page 16: Made responsive for devices with a max-width of 991px.
--Upcoming Task: Started development on the final page: "Contact Me."
--Contact Me Page: Fully responsive up to a max-width of 991px and ready for viewing.
+- Page 16: Made responsive for devices with a max-width of 991px.
+- Upcoming Task: Started development on the final page: "Contact Me."
+- Contact Me Page: Fully responsive up to a max-width of 991px and ready for viewing.
 
 End-of-Year Note:
-Today marks the last day of coding for 2024. I’ll be celebrating with my family and fiancée tomorrow. Over the past five months, I’ve gained valuable experience through my OJT and learning platforms like Coursera, Udemy, and Learn Computer Today Philippines Inc.
+Today marks the last day of coding for 2024. I’ll be celebrating with my family and fiancée tomorrow (31/12/24). Over the past five months, I’ve gained valuable experience through my OJT and learning platforms like Coursera, Udemy, and Learn Computer Today Philippines Inc.
 
 Special thanks to Coach Mike, Yuriy, Kuya Anton, and everyone who guided me along the way. Looking forward to continuing this journey in the new year!
-
-
 
 --- 
 
