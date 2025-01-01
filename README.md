@@ -105,6 +105,16 @@ Today marks the last day of coding for 2024. I’ll be celebrating with my famil
 
 Special thanks to Coach Mike, Yuriy, Kuya Anton, and everyone who guided me along the way. Looking forward to continuing this journey in the new year!
 
+```````````````
+
+January 2025
+
+```````````````
+01/01/25
+
+Starting to create the last page, Page 8: 'App Page.' I made this last because it contains many image elements, and the abundance of pictures might slow it down.
+
+
 --- 
 
 ```````````````
