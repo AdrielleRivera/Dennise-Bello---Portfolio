@@ -122,13 +122,16 @@ This will be challenging because the Canva design is small, so I will need to ad
 - I've completed the first four pictures for the page. Please review the document below. I'm quite busy today but will make time tomorrow. I'll also be away for two days on a family trip to Baler, Aurora, Philippines on January 3-4, 2025.
 
 ```````````````
-Before and After Navbar Problem:
+1. Before and After Navbar Problem:
 
 https://www.canva.com/design/DAGafWSGPr4/pnVcndFRBkADnNMSQocgNA/edit?utm_content=DAGafWSGPr4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Before and After Brown Border line in Work Section:
+2. Before and After Brown Border line in Work Section:
 
 https://www.canva.com/design/DAGal_dY2aM/_1_v_2uO3KbjF15h627pcA/view?utm_content=DAGal_dY2aM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76e93b9654
+
+3. First four pictures of the App Page:
+https://www.canva.com/design/DAGbDh0sDPQ/meMNNBU4mEOrZ18I1Bzpgw/view?utm_content=DAGbDh0sDPQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h252b3f369d
 
 Key Learnings
 
