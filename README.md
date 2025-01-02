@@ -114,7 +114,11 @@ January 2025
 
 Starting to create the last page, Page 8: 'App Page.' I made this last because it contains many image elements, and the abundance of pictures might slow it down.
 This will be challenging because the Canva design is small, so I will need to adjust the spacing between the images. Wish me luck!
---- 
+---
+
+01/02/25
+
+I am currently working on uploading and aligning images and text to match the specified design requirements. While challenging, it is manageable and progressing well.
 
 ```````````````
 Before and After Navbar Problem:
