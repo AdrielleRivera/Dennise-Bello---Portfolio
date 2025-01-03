@@ -121,6 +121,10 @@ This will be challenging because the Canva design is small, so I will need to ad
 - I am currently working on uploading and aligning images and text to match the specified design requirements. While challenging, it is manageable and progressing well.
 - I've completed the first four pictures for the page. Please review the document below. I'm quite busy today but will make time tomorrow. I'll also be away for two days on a family trip to Baler, Aurora, Philippines on January 3-4, 2025.
 
+01/03/25
+
+- The Apps Page now includes all 16 finalized images. The layout is not yet responsive for devices with a maximum width of 991px. Responsive adjustments are planned for completion next week.
+
 ```````````````
 1. Before and After Navbar Problem:
 
