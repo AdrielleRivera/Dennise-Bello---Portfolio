@@ -125,6 +125,9 @@ This will be challenging because the Canva design is small, so I will need to ad
 
 - The Apps Page now includes all 16 finalized images. The layout is not yet responsive for devices with a maximum width of 991px. Responsive adjustments are planned for completion next week.
 
+- I adjusted the spacing on the Apps Page to enhance readability and ensure a user-friendly experience, which is vital for effective UI/UX design. While this is not the final iteration, the adjustments create a clear and professional layout to showcase my fiancée's Virtual Assistant experience to her future clients. These improvements reflect a focus on accessibility and client-centered design.
+
+
 ```````````````
 1. Before and After Navbar Problem:
 
