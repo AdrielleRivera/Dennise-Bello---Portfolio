@@ -130,7 +130,6 @@ This will be challenging because the Canva design is small, so I will need to ad
 01/07/25
 - I recently resumed work after a long break and am currently addressing the responsiveness of the website for screens up to 991px.
 
-
 ```````````````
 1. Before and After Navbar Problem:
 
@@ -153,3 +152,11 @@ Next Steps
 
 - Continue refining pages based on feedback.
 - Enhance the portfolio with additional interactive elements and design consistency.
+
+Responsiveness Progress
+
+The project is fully responsive up to 991px (max-width)
+
+It is not yet fully responsive for all devices.
+
+This is a test project where I am applying everything I’ve learned from my OJT at Learn Computer Today Inc. and other learning platforms. I aim to keep improving this project to make it fully responsive on mobile devices.
